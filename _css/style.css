@@ -1,0 +1,10 @@
+body {
+  background: url('http://f.cl.ly/items/0j2Z3t2V2i123i3c0O0r/waves.gif');
+}
+
+#paper {
+  height: 460px;
+  width: 460px;
+  margin: 1em auto;
+  background: url('http://f.cl.ly/items/3N463A451Y1W3b03270k/process-wheel-bg.png') 105px 105px no-repeat;
+}

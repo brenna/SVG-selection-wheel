@@ -1,0 +1,9 @@
+{
+  "name": "svg.js",
+  "version": "0.0.0",
+  "commit": "80f89b23313cbad8cf7dd2f25ebf760debde54e7",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wout/svg.js.git"
+  }
+}

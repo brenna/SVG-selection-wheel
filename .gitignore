@@ -1,0 +1,6 @@
+	# System Files #
+	.DS_Store
+
+	# Bower Package Manager Files #
+	components/
+	component.json
